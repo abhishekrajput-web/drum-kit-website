@@ -19,6 +19,6 @@
 
 <h2 style="margin-top:20px">Full Website Seen</h2>
 <div>
-<img style="margin-top:20px" src="website pics/website%20pics%20(15).jpeg">
+<img style="margin-top:20px" src="website pics/website.jpeg">
 </div>
 
